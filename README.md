@@ -23,13 +23,13 @@ The jar folder is to be used to store the built jar file.
 2. open project from prefered IDE
 3. project is located under src->tankrotationexample
 
-## Steps to Build your Project:
+## Steps to Build Project:
 1. Open the Project Structure
 2. In the Project -> Project SDK select appropriate Java version
 3. In Modules -> Sources, set up resources in Tank Game as resource root
 4. Apply changes and build project
  
-## Steps to run your Project: 
+## Steps to run Project: 
 1. Set up the configuration to Launcher 
 2. Run Laucher OR
 3. Build the .JAR file
