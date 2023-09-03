@@ -1,5 +1,10 @@
 # Tank Battle Game
 
+## Description:
+In Tank Battle Game, 2 players control powerful tanks to pit against each other. The primary objective is to navigate 
+the tanks through obstacles, avoiding enemy fire while aiming for precise shots to eliminate opponents. Power-ups 
+scattered throughout the map provide tactical advantages, adding an element of unpredictability to the gameplay.
+
 ## src Folder Purpose 
 src folder is to be used to store source code only.
 
@@ -8,14 +13,6 @@ resources folder is to be used to store the resources for game project. This inc
 
 ## jar Folder Purpose 
 The jar folder is to be used to store the built jar file.
-
-# Information about the Tank Battle Game
-
-## Description:
-In Tank Battle Game, 2 players control powerful tanks to pit against each other. The primary objective is to 
-navigate the tanks through obstacles, avoiding enemy fire while aiming for precise shots to eliminate opponents. 
-Power-ups scattered throughout the map provide tactical advantages, adding an element of unpredictability to the gameplay.
-
 
 ## Version of Java Used: 20.0.1
 
