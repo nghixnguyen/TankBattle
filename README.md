@@ -1,27 +1,15 @@
-# csc413-tankgame
-
-
-| Student Information |                		|
-|:-------------------:|-------------------------|
-|  Student Name       |   Nghi Nguyen    	|
-|  Student Email      |   nnguyen13@sfsu.edu   	|
+# Tank Battle Game
 
 ## src Folder Purpose 
 src folder is to be used to store source code only.
 
 ## resources Folder Purpose 
-resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-`The src and resources folders can be deleted if you want a different file structure`
+resources folder is to be used to store the resources for game project. This includes images, sounds, map text files, etc.
 
 ## jar Folder Purpose 
-The jar folder is to be used to store the built jar of your term-project.
+The jar folder is to be used to store the built jar file.
 
-`NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED`
-
-`THIS FOLDER CAN NOT BE DELETED OR MOVED`
-
-# Required Information when Submitting Tank Game
+# Information about the Tank Battle Game
 
 ## Version of Java Used: 20.0.1
 
@@ -35,9 +23,8 @@ The jar folder is to be used to store the built jar of your term-project.
 ## Steps to Build your Project:
 1. Open the Project Structure
 2. In the Project -> Project SDK select appropriate Java version
-3. In Modules -> Sources, set up resources in TankGame as resource root
-4. Apply changes and build project OR
-5. Build -> Build Artifact -> csc413-tankgame-nghixnguyen.jar -> Build
+3. In Modules -> Sources, set up resources in Tank Game as resource root
+4. Apply changes and build project
  
 ## Steps to run your Project: 
 1. Set up the configuration to Launcher 
@@ -54,5 +41,3 @@ The jar folder is to be used to store the built jar of your term-project.
 |  Rotate left  |    A     |Left Arrow |
 |  Rotate Right |    D     |Right Arrow|
 |  Shoot        |  Space   |   Enter   |
-
-<!-- you may add more controls if you need to. -->
